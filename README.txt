@@ -1,7 +1,7 @@
 # Othello - Projet L2
 
 ## Auteur
-* Haison HONG
+* Haison HONG & Antoine Dis
 
 ## Description
 Ce projet est une implémentation du jeu de stratégie classique Othello, développé en Python avec une interface graphique utilisant la bibliothèque Pygame. Il a été réalisé dans le cadre du cours d'informatique de Madame Barbier (CPES 2)
